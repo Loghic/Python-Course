@@ -1,1 +1,1 @@
-##Python course by Angela Yu
+Python course by Angela Yu
