@@ -94,7 +94,6 @@ def random_color():
 
 tim.speed("fastest")
 
-
 def draw_spirograph(size_of_gap):
     for _ in range(int(360 / size_of_gap)):
         tim.color(random_color())
@@ -103,10 +102,6 @@ def draw_spirograph(size_of_gap):
 
 
 draw_spirograph(5)
-
-screen = Screen()
-screen.exitonclick()
-
 
 # to Show screen
 screen = Screen()
